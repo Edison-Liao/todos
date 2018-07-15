@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+html,body {
+    font: 20px Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+}
+input,select,textarea,button {
+    padding: 6px;
+    font: inherit;
+    border: 1px solid #9a9bac;
+    outline: none;
+    box-sizing: inherit;
+}
+.input-poetry {
+    width: 320px;
+}
+.ivu-message{
+    font-size: inherit;
+}
+
+ul {
+    padding-left: 20px;
+    color: #2396fd;
+    list-style: none;
+}
+
+//li{
+//    font-size: 30px;
+//}
